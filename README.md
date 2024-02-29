@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marifafridi10 stated coding in 2018 and after two years I quited beczof some financial issues,
+- 👋 Hi, I’m @marifafridi10 started coding in 2018 and after two years I quited beczof some financial issues,
 - 👀 I’m interested in ... coding alongside gaming development !!
 - 🌱 I’m currently learning ...C#
 - 💞️ I’m looking to collaborate on ...  some learning activities
